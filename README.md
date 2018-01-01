@@ -1,6 +1,9 @@
 # croudia-archive
 
-> My good Nuxt.js project
+Croudiaが終了する前に即席で作った自分のささやきをすべてJSONでアーカイブするためのツール。現在はサービス終了のため利用できません。  
+また、即席で作ったのでOAuth回りとかも雑にコードに埋め込んでます。
+
+Nuxt(SPA)+Vue2.4+bootstrap-vue+vuex+vuex-persistedstate+express
 
 ## Build Setup
 
